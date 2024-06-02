@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Maurice-Web/static/css/main.0877b4d6.css",
-    "main.js": "/Maurice-Web/static/js/main.aeffc768.js",
+    "main.js": "/Maurice-Web/static/js/main.d7dd64b4.js",
+    "static/media/MauriceIrene.Cv - Copy - Copy.pdf": "/Maurice-Web/static/media/MauriceIrene.Cv - Copy - Copy.6edb2352b518f9a9c7c2.pdf",
     "static/media/portfolio2.png": "/Maurice-Web/static/media/portfolio2.6158691275fe82aa464b.png",
     "static/media/portfolio3.png": "/Maurice-Web/static/media/portfolio3.57c7e39c75c8f5ae579c.png",
     "static/media/IMG_7242.jpg": "/Maurice-Web/static/media/IMG_7242.2c23d3ee7e4c78c331ed.jpg",
-    "static/media/cv.pdf": "/Maurice-Web/static/media/cv.e1da4d1e09b9d448e32f.pdf",
     "static/media/decagon.png": "/Maurice-Web/static/media/decagon.db3ad8146090f6414a93.png",
     "static/media/IMG_6612-removebg-preview.png": "/Maurice-Web/static/media/IMG_6612-removebg-preview.a437d7eeed10886416ce.png",
     "static/media/nebotv.jpg": "/Maurice-Web/static/media/nebotv.e4ffad0d497dc6e5aab9.jpg",
@@ -15,10 +15,10 @@
     "static/media/portfolio4.png": "/Maurice-Web/static/media/portfolio4.b3c912e11cf33667cbfc.png",
     "index.html": "/Maurice-Web/index.html",
     "main.0877b4d6.css.map": "/Maurice-Web/static/css/main.0877b4d6.css.map",
-    "main.aeffc768.js.map": "/Maurice-Web/static/js/main.aeffc768.js.map"
+    "main.d7dd64b4.js.map": "/Maurice-Web/static/js/main.d7dd64b4.js.map"
   },
   "entrypoints": [
     "static/css/main.0877b4d6.css",
-    "static/js/main.aeffc768.js"
+    "static/js/main.d7dd64b4.js"
   ]
 }
